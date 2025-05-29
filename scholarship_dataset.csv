@@ -1,0 +1,51 @@
+id,title,description,category,location,course,income_limit
+1,Minority Scholarship 1,Open to Minority students from Bihar pursuing Engineering/Diploma courses. Income limit: N/A.,Minority,Bihar,"Engineering, Diploma",N/A
+2,Female Scholarship 2,Open to Female students from Kerala pursuing BSc/Diploma courses. Income limit: 1.5 LPA.,Female,Kerala,"BSc, Diploma",1.5 LPA
+3,PWD Scholarship 3,Open to PWD students from Kerala pursuing Diploma/Engineering/BA courses. Income limit: 2.5 LPA.,PWD,Kerala,"Diploma, Engineering, BA",2.5 LPA
+4,ST Scholarship 4,Open to ST students from West Bengal pursuing Medical courses. Income limit: 1 LPA.,ST,West Bengal,Medical,1 LPA
+5,Minority Scholarship 5,Open to Minority students from Tamil Nadu pursuing BA/Engineering/Diploma courses. Income limit: 1 LPA.,Minority,Tamil Nadu,"BA, Engineering, Diploma",1 LPA
+6,Minority Scholarship 6,Open to Minority students from Maharashtra pursuing BA/MTech courses. Income limit: 1.5 LPA.,Minority,Maharashtra,"BA, MTech",1.5 LPA
+7,PWD Scholarship 7,Open to PWD students from Karnataka pursuing MTech/BSc courses. Income limit: 3 LPA.,PWD,Karnataka,"MTech, BSc",3 LPA
+8,OBC Scholarship 8,Open to OBC students from West Bengal pursuing Diploma/Medical courses. Income limit: N/A.,OBC,West Bengal,"Diploma, Medical",N/A
+9,General Scholarship 9,Open to General students from Kerala pursuing BA/BCom/MTech courses. Income limit: 1.5 LPA.,General,Kerala,"BA, BCom, MTech",1.5 LPA
+10,Minority Scholarship 10,Open to Minority students from Karnataka pursuing BA/BSc/MSc courses. Income limit: 2.5 LPA.,Minority,Karnataka,"BA, BSc, MSc",2.5 LPA
+11,General Scholarship 11,Open to General students from West Bengal pursuing MTech/BSc/Diploma courses. Income limit: 1 LPA.,General,West Bengal,"MTech, BSc, Diploma",1 LPA
+12,OBC Scholarship 12,Open to OBC students from West Bengal pursuing Medical courses. Income limit: 1.5 LPA.,OBC,West Bengal,Medical,1.5 LPA
+13,SC Scholarship 13,Open to SC students from West Bengal pursuing MSc/Diploma/BSc courses. Income limit: 2 LPA.,SC,West Bengal,"MSc, Diploma, BSc",2 LPA
+14,Minority Scholarship 14,Open to Minority students from Kerala pursuing MTech/Diploma courses. Income limit: 1 LPA.,Minority,Kerala,"MTech, Diploma",1 LPA
+15,PWD Scholarship 15,Open to PWD students from Bihar pursuing Engineering/BA/Diploma courses. Income limit: 2 LPA.,PWD,Bihar,"Engineering, BA, Diploma",2 LPA
+16,PWD Scholarship 16,Open to PWD students from Bihar pursuing MTech courses. Income limit: N/A.,PWD,Bihar,MTech,N/A
+17,PWD Scholarship 17,Open to PWD students from Kerala pursuing Engineering/Medical/MTech courses. Income limit: 3 LPA.,PWD,Kerala,"Engineering, Medical, MTech",3 LPA
+18,Female Scholarship 18,Open to Female students from Maharashtra pursuing Medical/BA/MTech courses. Income limit: 1.5 LPA.,Female,Maharashtra,"Medical, BA, MTech",1.5 LPA
+19,ST Scholarship 19,Open to ST students from Karnataka pursuing Medical/MTech courses. Income limit: 2.5 LPA.,ST,Karnataka,"Medical, MTech",2.5 LPA
+20,PWD Scholarship 20,Open to PWD students from Kerala pursuing Engineering courses. Income limit: 4 LPA.,PWD,Kerala,Engineering,4 LPA
+21,Minority Scholarship 21,Open to Minority students from West Bengal pursuing Engineering/Diploma/Medical courses. Income limit: 3 LPA.,Minority,West Bengal,"Engineering, Diploma, Medical",3 LPA
+22,SC Scholarship 22,Open to SC students from Kerala pursuing BSc courses. Income limit: 2 LPA.,SC,Kerala,BSc,2 LPA
+23,General Scholarship 23,Open to General students from Delhi pursuing MSc courses. Income limit: 1 LPA.,General,Delhi,MSc,1 LPA
+24,Minority Scholarship 24,Open to Minority students from Maharashtra pursuing MSc/Diploma/Engineering courses. Income limit: 2 LPA.,Minority,Maharashtra,"MSc, Diploma, Engineering",2 LPA
+25,General Scholarship 25,Open to General students from Karnataka pursuing Medical/BSc courses. Income limit: 4 LPA.,General,Karnataka,"Medical, BSc",4 LPA
+26,PWD Scholarship 26,Open to PWD students from Bihar pursuing MTech/BA courses. Income limit: N/A.,PWD,Bihar,"MTech, BA",N/A
+27,PWD Scholarship 27,Open to PWD students from Bihar pursuing BCom/MTech courses. Income limit: 2.5 LPA.,PWD,Bihar,"BCom, MTech",2.5 LPA
+28,ST Scholarship 28,Open to ST students from Kerala pursuing Engineering/BA/MSc courses. Income limit: 2.5 LPA.,ST,Kerala,"Engineering, BA, MSc",2.5 LPA
+29,SC Scholarship 29,Open to SC students from Maharashtra pursuing Diploma/MSc/MTech courses. Income limit: 3 LPA.,SC,Maharashtra,"Diploma, MSc, MTech",3 LPA
+30,SC Scholarship 30,Open to SC students from Maharashtra pursuing BCom courses. Income limit: 2.5 LPA.,SC,Maharashtra,BCom,2.5 LPA
+31,ST Scholarship 31,Open to ST students from Bihar pursuing Diploma/Engineering courses. Income limit: 4 LPA.,ST,Bihar,"Diploma, Engineering",4 LPA
+32,ST Scholarship 32,Open to ST students from Kerala pursuing MTech/MSc/Engineering courses. Income limit: 4 LPA.,ST,Kerala,"MTech, MSc, Engineering",4 LPA
+33,Female Scholarship 33,Open to Female students from Karnataka pursuing Medical/Engineering/BCom courses. Income limit: 3 LPA.,Female,Karnataka,"Medical, Engineering, BCom",3 LPA
+34,PWD Scholarship 34,Open to PWD students from Maharashtra pursuing BCom courses. Income limit: N/A.,PWD,Maharashtra,BCom,N/A
+35,Minority Scholarship 35,Open to Minority students from Karnataka pursuing BA/BSc/Engineering courses. Income limit: 3 LPA.,Minority,Karnataka,"BA, BSc, Engineering",3 LPA
+36,ST Scholarship 36,Open to ST students from Kerala pursuing BSc/BA courses. Income limit: 1 LPA.,ST,Kerala,"BSc, BA",1 LPA
+37,Minority Scholarship 37,Open to Minority students from Maharashtra pursuing MTech courses. Income limit: 2.5 LPA.,Minority,Maharashtra,MTech,2.5 LPA
+38,OBC Scholarship 38,Open to OBC students from Tamil Nadu pursuing BA/Medical courses. Income limit: 4 LPA.,OBC,Tamil Nadu,"BA, Medical",4 LPA
+39,General Scholarship 39,Open to General students from Tamil Nadu pursuing Medical courses. Income limit: 1.5 LPA.,General,Tamil Nadu,Medical,1.5 LPA
+40,Female Scholarship 40,Open to Female students from Maharashtra pursuing Engineering courses. Income limit: 4 LPA.,Female,Maharashtra,Engineering,4 LPA
+41,Minority Scholarship 41,Open to Minority students from Bihar pursuing MTech/BSc/Engineering courses. Income limit: 2 LPA.,Minority,Bihar,"MTech, BSc, Engineering",2 LPA
+42,Female Scholarship 42,Open to Female students from West Bengal pursuing Medical/MTech/BA courses. Income limit: 2 LPA.,Female,West Bengal,"Medical, MTech, BA",2 LPA
+43,ST Scholarship 43,Open to ST students from Karnataka pursuing MSc/BA courses. Income limit: 1.5 LPA.,ST,Karnataka,"MSc, BA",1.5 LPA
+44,PWD Scholarship 44,Open to PWD students from Delhi pursuing BCom/Diploma courses. Income limit: 2 LPA.,PWD,Delhi,"BCom, Diploma",2 LPA
+45,General Scholarship 45,Open to General students from Maharashtra pursuing Diploma courses. Income limit: N/A.,General,Maharashtra,Diploma,N/A
+46,OBC Scholarship 46,Open to OBC students from Karnataka pursuing MTech/BA courses. Income limit: N/A.,OBC,Karnataka,"MTech, BA",N/A
+47,SC Scholarship 47,Open to SC students from Tamil Nadu pursuing Diploma courses. Income limit: 4 LPA.,SC,Tamil Nadu,Diploma,4 LPA
+48,PWD Scholarship 48,Open to PWD students from Delhi pursuing BSc courses. Income limit: 2.5 LPA.,PWD,Delhi,BSc,2.5 LPA
+49,OBC Scholarship 49,Open to OBC students from Maharashtra pursuing BA/BSc courses. Income limit: 2.5 LPA.,OBC,Maharashtra,"BA, BSc",2.5 LPA
+50,Female Scholarship 50,Open to Female students from Tamil Nadu pursuing BSc courses. Income limit: 4 LPA.,Female,Tamil Nadu,BSc,4 LPA
